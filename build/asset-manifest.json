@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextRajiv/static/css/main.abd64e84.css",
+    "main.js": "/TextRajiv/static/js/main.18fbc36c.js",
+    "static/js/787.47c22f8e.chunk.js": "/TextRajiv/static/js/787.47c22f8e.chunk.js",
+    "index.html": "/TextRajiv/index.html",
+    "main.abd64e84.css.map": "/TextRajiv/static/css/main.abd64e84.css.map",
+    "main.18fbc36c.js.map": "/TextRajiv/static/js/main.18fbc36c.js.map",
+    "787.47c22f8e.chunk.js.map": "/TextRajiv/static/js/787.47c22f8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.18fbc36c.js"
+  ]
+}
